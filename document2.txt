@@ -24,8 +24,7 @@
 \begin{titlepage}
 \centering
 \vspace*{0.5 cm}
-\includegraphics[width=8cm]{https://raw.githubusercontent.com/blinqfast/latex_files/main/BLINQ_logga.png
-} % Byt ut "logoplats" mot filnamnet för din logotyp
+\includegraphics[width=8cm]{https://raw.githubusercontent.com/blinqfast/latex_files/main/BLINQ_logga.png} % Byt ut "logoplats" mot filnamnet för din logotyp
 \vspace{1cm}
 
 {\Large BLINQ Fastighetsförvaltning AB \par}
