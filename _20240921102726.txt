@@ -1,0 +1,23 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{graphicx}
+\usepackage{amsmath, amssymb, amsthm}
+
+\begin{document}
+
+\begin{table}[htbp]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+\textbf{Ärendebeskrivning} & \textbf{Ärendenummer} & \textbf{Äreneradnummer} & \textbf{Ärenderadkommentar} & \textbf{Artikel} & \textbf{Antal} \\ \hline
+Mitt badrumsfönster är dåligt & 2024-590 & 2024-590-1 & 2024-09-04 Olljin: Bokat tid med boende samt gjort kontroll på badrumsfönster. Bifogar bilder och förklarar för styrelsen.  & Fastighetsskotare & 1 \\ \hline
+Brunnslock framför lokal / infart till område har hamnat på snedden. & 2024-594 & 2024-594-1 & 2024-08-27 Olljin: Lagt brunnslock tillrätta.  & Fastighetsskotare & 0.5 \\ \hline
+Hej, Jag vill anmäla stopp i avloppet i köket. Har försökt med sugpropp själv men funkar inte. Det bubblar ur avloppet även när man inte spolar med vatten själv och luktar avlopp. Kommer upp avloppsvatten. Mvh Carina Sjödin & 2024-721 & 2024-721-1 & 2024-09-15 Antblo: Skickad vidare till jourgruppen för spolning & Forvaltare & 0 \\ \hline
+ &  & 2024-721-GN:249 & 2024-09-18 Allman: Lev.faktura 249 påslag lev.faktura: 10\% & Vidarefakturering Material & 1 \\ \hline
+Stopp i köksavloppet. Rinner långsamt i badrummet med. & 2024-725 & 2024-725-1 & 2024-09-17 Antblo: Då vi haft flera avloppsstopp i detta hus så sammanställer jag den infon vi har för att se om det finns något större problem. 29A är nu spolad två gånger på kort tid, denna gång mycket fett i stammen. 23an har blivit spolad, dock var problemet där med största sannolikhet deras eget då kopplingen från deras toalett ej är optimal vilket kan göra ett stopp händer enklare. 25an har jag bett om att få filmad då de som bor där nu skall ha varit väldigt försiktiga med vad de spolar ned.  & Forvaltare & 0.5 \\ \hline
+ &  & 2024-725-2 & 2024-09-17 Antblo: Skickat till jourgruppen för spolning och filmning.  & Fastighetsskotare & 0 \\ \hline
+ &  & 2024-725-GN:248 & 2024-09-18 Allman: Lev.faktura 248 påslag lev.faktura: 10\% & Vidarefakturering Material & 1 \\ \hline
+\end{tabular}
+\caption{Ärendesammanställning Tabell}
+\end{table}
+
+\end{document}
