@@ -1,0 +1,193 @@
+\documentclass{article}
+\usepackage{amsmath, amsthm}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{multirow}
+
+
+% Set up header and footer
+\pagestyle{fancy}
+\fancyhf{} % Clear all headers and footers
+\fancyfoot[C]{\thepage} % Add page number in the center of the footer
+
+% To start numbering from "Introduktion" section
+\newcommand{\startpage}{\setcounter{page}{1}}
+
+\title{Offert Teknisk förvaltning \\ BRF Luntmakargatan}
+\date{2024-09-12}
+
+\begin{document}
+\begin{titlepage}
+\centering
+\vspace*{0.5 cm}
+\includegraphics[width=8cm]{BLINQ_logga.png} % Byt ut "logoplats" mot filnamnet för din logotyp
+\vspace{1cm}
+
+{\Large BLINQ Fastighetsförvaltning AB \par}
+\vspace{1cm}
+{\Huge\bfseries Offert \\ BRF Luntmakargatan, 2024  \par}
+\vspace{1cm}
+\vspace{1cm}
+\Large\textbf{Teknisk förvaltning } \par
+{\Large\textbf{Datum}: 2024-09-12 \par}
+
+{\Large\textbf{Version}: 1.0 \par}
+{\Large\textbf{Offertens giltighetstid}: 60 dagar \par}
+\vspace{1cm}
+\vfill
+
+\end{titlepage}
+\begin{titlepage}
+
+\tableofcontents
+\end{titlepage}
+
+\newpage
+
+\startpage % Start page numbering from this section
+
+\section{Introduktion}
+Vi på BLINQ vill tacka er för förtroendet att få lämna en offert för detta uppdrag, baserat på det mottagna förfrågningsunderlaget. Vårt mål är att erbjuda er en heltäckande lösning, där vi agerar som en pålitlig partner i ert styrelsearbete och säkerställer att er fastighet förvaltas på ett professionellt och tryggt sätt.
+\\ \\
+Genom denna offert vill vi förenkla fastighetsförvaltningen för er och erbjuda en tjänst som garanterar att er fastighet sköts effektivt och korrekt. Den tjänstebeskrivning ni har inom föreningen täcker era behov och lägger grunden för en stabil och välskött bostadsrättsförening.
+\\ \\
+Under uppstarten kommer vi att utarbeta kundspecifika checklistor anpassade efter de olika moment som specificeras i ert förfrågningsunderlag. Dessa checklistor är inte bifogade i denna offert, men vi tar självklart fram dem under processens gång.
+\\ \\
+Tveka inte att höra av er om ni har några frågor eller funderingar – vi hanterar dem gärna snabbt och smidigt.
+\\ \\
+Vi ser fram emot er återkoppling och tackar än en gång för möjligheten att få lämna en offert!
+
+
+\begin{flushleft}
+Med vänliga hälsningar,\\
+Anton Blomquist \\
+VD på BLINQ Fastighetsförvaltning AB
+\end{flushleft}
+
+
+\section{Vårt erbjudande}
+Samtliga priser i offerten är exklusive moms.
+
+% Example of table in the new format
+\begin{table}[h]
+\centering
+\caption{Fastighetsskötsel}
+\begin{tabularx}{\textwidth}{|l|X|}
+\hline
+\textbf{Kategori} & \textbf{Pris} \\
+\hline
+Fastighetsskötsel / drift & 38 000 kr / år \\
+\hline
+Fastighetsförvaltning & 48 000 kr / år \\
+\hline
+Summa & 86 000 kr / år \\
+\hline
+\end{tabularx}
+\end{table}
+\newpage
+
+
+\subsection{Beskrivning utav kategorier}
+Nedanstående tabell redovisar vad som ingår i det fasta priset. Övriga uppgifter ni specifierat i er \\anbudsförfrågan utförs på löpande räkning utefter beställning från er. 
+\begin{table}[h]
+\centering
+\caption{Fastighetsskötsel / Drift}
+\begin{tabularx}{\textwidth}{|l|X|}
+\hline
+\textbf{Kategori} & \textbf{Pris} \\
+\hline
+Fastighetsskötsel / drift & 38 000 kr / år \\
+\hline
+\multicolumn{2}{|X|}{\vspace{0.1cm} \textbf{Detta inkluderar:}} \\
+\multicolumn{2}{|X|}{
+\begin{itemize}
+    \item Detta pris innefattar de punkter som ingår i tillsynen, vilket då är de som är markerade i ert underlag med fasta intervall.
+    \item Övriga markerade med ”vid behov” utförs på löpande räkning enligt prislista.
+    \item Detta pris innefattar ej material för exempelvis filter, belysning eller annat som är klassat ”förbrukningsmaterial”.
+\end{itemize}} \\
+\hline
+\multicolumn{2}{|X|}{\textbf{}} \\
+\hline
+
+\textbf{Kategori} & \textbf{Pris} \\
+\hline
+Fastighetsförvaltning & 48 000 kr / år \\
+\hline
+\multicolumn{2}{|X|}{\vspace{0.1cm} \textbf{Detta inkluderar:}} \\
+\multicolumn{2}{|X|}{
+\begin{itemize}
+    \item Husesyn 1 gång per år
+    \item Årlig tillsyn för att uppdatera underhållsplan 1 gång per år
+    \item Förvaltningsmöte 2 gånger per år
+    \item Återkoppling kring tillsyn och skötsel 52 gånger per år
+    \item Delta som föredragande i kvartalsvis diskussion av förvaltningsärenden i styrelsemöten 4 gånger per år
+    \item Övriga uppgifter (vid behov) utförs på löpande räkning enligt prislista
+    \item Tillgång till webbportal med ärendehantering
+  
+\end{itemize}} \\
+\hline
+\end{tabularx}
+\end{table}
+
+
+
+
+\newpage
+
+
+\section{Organisationsstruktur för Uppdraget}
+
+\subsection*{Företagets styrelseordförande}
+Leif Blomquist har lång erfarenhet inom fastighetsförvaltning och besitter gedigen kompetens inom teknisk och administrativ förvaltning. I sin roll som styrelseordförande för BLINQ Fastighetsförvaltning AB stöttar han Anton i att utveckla företaget och säkerställa att det levererar hög kvalitet gentemot kunderna. Leif fokuserar på att bidra med strategisk vägledning och erfarenhetsbaserad rådgivning.
+
+\subsection*{Uppdragsansvarig}
+Anton Blomquist, VD och förvaltningschef, kommer att ansvara för detta uppdrag. Han kommer att \\ assisteras av Abdelnoor Ibrahim i rollen som assisterande förvaltare.
+
+\subsection*{Teknikansvarig}
+Olle Jinder är arbetsledande tekniker och kommer regelbundet vara på plats. Henrik Karlsson fungerar som servicetekniker och kommer att vara tillgänglig vid behov.
+
+\subsection*{Ekonomiskt Ansvarig}
+Josefine Nilsson ansvarar för de ekonomiska och administrativa uppgifterna med stöd av Emma Karlsson, som agerar ekonomiassistent.
+
+\subsection*{Tydliga Kontaktvägar och Ansvarsområden}
+Vi säkerställer effektiva och smidiga kommunikationsvägar genom att minimera antalet inblandade parter. Varje medlem i teamet har tydliga ansvarsområden, vilket garanterar ett framgångsrikt genomförande av uppdraget. Anton Blomquist ser till att uppdraget följer alla gällande regelverk och avtalskrav för att säkerställa BLINQ:s höga standard och kvalitet i leveransen.
+
+\newpage
+
+\section{Referenser}
+\subsection*{Våra avtal}
+\begin{itemize}
+    \item BRF Kyrkbacken: 324 lägenheter i Solna
+    \item BRF Kålroten 2: 84 lägenheter i Täby
+    \item BRF Myran 1: 27 lägenheter i Hammarby Sjöstad
+    \item Titania Fastigheter AB: Täby 227 lägenheter, Vallentuna 36 lägenheter, Alby 320 lägenheter.
+\end{itemize}
+Referenser lämnas på begäran 
+
+\newpage
+
+\section{Prislista}
+\begin{table}[h]
+\centering
+\caption{Timpris för tjänster}
+\begin{tabularx}{\textwidth}{|l|l|X|}
+\hline
+\textbf{Kategori} & \textbf{Timpris (kr/h)} & \textbf{Beskrivning} \\
+\hline
+Fastighetsskötare & 495 & Timpris för fastighetsskötsel \\\hline
+Drifttekniker & 595 & Timpris för drifttekniska uppdrag \\\hline
+Elektriker & 595 & Timpris för elarbeten \\\hline
+Ventilation / VVS-tekniker & 595 & Timpris för VVS och ventilationsarbeten \\\hline
+Förvaltare/platschef & 895 & Timpris för platschefer och förvaltning \\\hline
+Projektledning & 895 & Timpris för projektledning \\\hline
+Driftingenjör & 795 & Timpris för driftingenjörer \\\hline
+Byggnadsarbeten & 495 & Timpris för byggarbeten \\\hline
+Städ & 415 & Timpris för städning \\\hline
+\end{tabularx}
+\end{table}
+
+\end{document}
